@@ -79,8 +79,5 @@ weight = 4
     name = "github"
     link = "https://github.com/gohugoio"
   [[params.social]]
-    name = "linkedin"
-    link = "https://www.linkedin.com/company/github/"
-  [[params.social]]
     name = "email"
     link = "example@example.com"  # no need for "mailto:" in the head
